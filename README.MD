@@ -15,6 +15,8 @@ Ce projet est une implémentation du célèbre jeu vidéo "Lemmings". Le joueur 
 ## Prérequis
 - Python 3.x installé sur votre système
 - Pygame installé. Vous pouvez l'installer en exécutant la commande suivante :
+    
+        `pip install -r requirements.txt`
 
 ## Comment lancer le jeu
 1. Clonez ce dépôt sur votre machine locale.
